@@ -1,3 +1,3 @@
 # upi-app
 
-Run the app using command npm index
+Run the app using command : node index.js
